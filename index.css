@@ -1,0 +1,339 @@
+body {
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+}
+.intro {
+    background-image: url('images/intro-img.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*------------------------------------------*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 48px;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    margin-bottom: 3%;
+    /*------------------------------------------*/
+    height: 80vh;
+    width: 100%;
+    /*------------------------------------------*/
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    /*------------------------------------------*/
+}
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.span1 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(255, 187, 0);
+    line-height: 5%;
+}
+.span2 {
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(55, 235, 0);
+    letter-spacing: 2px;
+    word-spacing: 3px;
+}
+.span3 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(255, 0, 140);
+}
+.span4 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(255, 0, 140);
+}
+.span5 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(0, 157, 230);
+}
+.hope {
+    background-image: url('images/hope.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*------------------------------------------*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 48px;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    /*------------------------------------------*/
+    height: 80vh;
+    width: 100%;
+    /*------------------------------------------*/
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    /*------------------------------------------*/
+}
+.span6 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(174, 0, 255);
+}
+.span7 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(255, 0, 106);
+}
+.covid {
+    background-image: url('images/covid.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*------------------------------------------*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 48px;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    margin-top: 3%;
+    /*------------------------------------------*/
+    height: 80vh;
+    width: 100%;
+    /*------------------------------------------*/
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    /*------------------------------------------*/
+}
+.span8 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(255, 174, 0);
+    line-height: 3%;
+    margin-top: 3%;
+    padding: 1%;
+}
+.span9 {
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(174, 0, 255);
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    margin-top: 1%;
+}
+.span10 {
+    font-size: 33px;
+    font-family: 'Marck Script', cursive;
+    color: rgb(0, 199, 149);
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+}
+@media screen and (max-width: 700px) {
+    .intro {
+        font-size: 11px;
+    }
+    .span1 {
+        font-size: 29px;
+    }
+    .span2 {
+        font-size: 30px;
+    }
+    .span3 {
+        font-size: 29px;
+    }
+    .span4 {
+        font-size: 29px;
+    }
+    .span5 {
+        font-size: 29px;
+    }
+    .hope {
+        font-size: 11px;
+    }
+    .span6 {
+        font-size: 29px;
+    }
+    .span7 {
+        font-size: 29px;
+    }
+    .covid {
+        font-size: 11px;
+    }
+    .span8{
+        font-size: 29px;
+    }
+    .span9{
+        font-size: 32px;
+    }
+    .span10{
+        font-size: 29px;
+    }
+}
+@media screen and (max-width: 568px) {
+    .intro {
+        font-size: 10px;
+    }
+    .span1{
+        font-size: 27px;
+    }
+    .span2{
+        font-size: 28px;
+    }
+    .span3{
+        font-size: 27px;
+    }
+    .span4{
+        font-size: 27px;
+    }
+    .span5{
+        font-size: 27px;
+    }
+    .span6{
+        font-size: 27px;
+    }
+    .span7{
+        font-size: 27px;
+    }
+    .span8{
+        font-size: 27px;
+    }
+    .span9{
+        font-size: 28px;
+    }
+    .span10{
+        font-size: 27px;
+    }
+}
+@media screen and (max-width: 522px) {
+    .intro {
+        font-size: 8px;
+    }
+    .span1{
+        font-size: 24px;
+    }
+    .span2{
+        font-size: 25px;
+    }
+    .span3{
+        font-size: 24px;
+    }
+    .span4{
+        font-size: 24px;
+    }
+    .span5{
+        font-size: 24px;
+    }
+    .span6{
+        font-size: 24px;
+    }
+    .span7{
+        font-size: 24px;
+    }
+    .span8{
+        font-size: 24px;
+    }
+    .span9{
+        font-size: 25px;
+    }
+    .span10{
+        font-size: 24px;
+    }
+    .hope {
+        font-size: 8px;
+    }
+    .covid {
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 446px) {
+    .intro {
+        font-size: 7px;
+    }
+    .span1{
+        margin-top: 5%;
+        font-size: 21px;
+    }
+    .span2{
+        font-size: 21px;
+    }
+    .span3{
+        font-size: 21px;
+    }
+    .span4{
+        font-size: 21px;
+    }
+    .span5{
+        font-size: 21px;
+    }
+    .span6{
+        font-size: 21px;
+    }
+    .span7{
+        font-size: 21px;
+    }
+    .span8{
+        font-size: 21px;
+    }
+    .span9{
+        font-size: 22px;
+    }
+    .span10{
+        font-size: 21px;
+    }
+    .hope {
+        font-size: 7px;
+    }
+    .covid {
+        font-size: 7px;
+    }
+}
+@media screen and (max-width: 318px) {
+    .span1{
+        margin-top: 5%;
+        font-size: 17px;
+    }
+    .span2{
+        font-size: 17px;
+    }
+    .span3{
+        font-size: 17px;
+    }
+    .span4{
+        font-size: 17px;
+    }
+    .span5{
+        font-size: 17px;
+    }
+    .span6{
+        font-size: 19px;
+    }
+    .span7{
+        font-size: 19px;
+    }
+    .span8{
+        font-size: 17px;
+    }
+    .span9{
+        font-size: 18px;
+    }
+    .span10{
+        font-size: 17px;
+    }
+    .intro {
+        font-size: 7px;
+        padding: 2%;
+        line-height: 40px;
+    }
+}

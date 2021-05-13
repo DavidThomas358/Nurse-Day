@@ -1,3 +1,4 @@
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1>Nurse-Day<br>
 </h1>
 <p><img src="https://image.freepik.com/free-vector/cute-nurse-icon-illustration_138676-1008.jpg" width='140' height='140'></p>
@@ -6,22 +7,36 @@
   <a href="https://github.com/Neel-Kr/Nurse-Day/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Neel-Kr/Nurse-Day?color=FF007C&style=for-the-badge"></a>
   <a href="https://github.com/Neel-Kr/Nurse-Day/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Neel-Kr/Nurse-Day?color=0514FF&style=for-the-badge"></a>
   <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Neel-Kr/Nurse-Day?color=32FF05&style=for-the-badge"></a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Neel-Kr/Nurse-Day?color=596FEA&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Neel-Kr/Nurse-Day?color=5EECE3&style=for-the-badge">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Neel-Kr/Nurse-Day?color=9022A8&style=for-the-badge">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Neel-Kr/Nurse-Day?color=FF0000&label=Total%20lines%20of%20code&style=for-the-badge">
+  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/Neel-Kr/Nurse-Day?color=35D622&style=for-the-badge">
 </p>
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3>Description</h3>
 <p>
-  A very small and basic website having <b>parallax scrolling effect</b> added in it is developed using <i>Hyper Text Markup Language</i> and <i>Cascading Style Sheets</i> to mark the importance and remembrance of <b>12th May</b> and to wish all nurses, <b><em>"A Happy Nurse Day"</em></b> and to thank them for standing in the fronlines of Coronavirus Pandemic!!!<br>
-  <b>Uniform Resource Locator</b> of website: https://neel-kr.github.io/Nurse-Day/
-</p>
-<h3>Contributions</h3>
-<p>
-  <b>When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, please follow it in all your interactions with the project.<br>
-    Source: <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
+  <b>
+    A very small and basic website having parallax scrolling effect added in it is developed using Hyper Text Markup Language and Cascading Style Sheets to mark the importance       and remembrance of 12th May and to wish all nurses, "A Happy Nurse Day" and to thank them for standing in the fronlines of Coronavirus Pandemic!!!<br>
+    Uniform Resource Locator of website: https://neel-kr.github.io/Nurse-Day/
   </b>
 </p>
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<h3>Contributions</h3>
+<p>
+  <b>
+    
+    When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other
+    method with the owners of this repository before making a change. Please note we have a code of conduct, please follow
+    it in all your interactions with the project.
+  </b>
+  <b>Source: <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></b>
+</p>
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3>Citizen Code Of Conduct</h3>
 <p>
   <b>
-    Do read project's <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a> file to know about<br>
+   Do read project's <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a> file to know about<br>
     ✔️ <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CODE_OF_CONDUCT.md#1-purpose">Purpose</a><br>
     ✔️ <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CODE_OF_CONDUCT.md#2-open-sourceculturetech-citizenship">Open [Source/Culture/Tech] Citizenship</a><br>
     ✔️ <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CODE_OF_CONDUCT.md#3-expected-behavior">Expected Behavior</a><br>
@@ -35,7 +50,7 @@
     ✔️ <a href="https://github.com/Neel-Kr/Nurse-Day/blob/main/CODE_OF_CONDUCT.md#11-license-and-attribution">11. License and attribution</a><br>
   </b>
 </p>
-
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h3>License</h3>
 <p>
   <b>
@@ -62,6 +77,7 @@
     SOFTWARE.
   </b>
 </p>
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p>
   <b>Thank You<br>By Neel Kumar<br>Made with love in India</b>
 </p>
